@@ -43,6 +43,7 @@
   },
   {
     "name": "Hypesquad Events",
+    "description": "Among Us",
     "created": "2016",
     "killed": "2022",
     "icon": "https://i.imgur.com/SuNj4Hh.png"
@@ -84,6 +85,7 @@
   },
   {
     "name": "Home Tab",
+    "description": "ADD A DESCRIPTION",
     "created": "2022",
     "killed": "2023",
     "icon": "https://i.imgur.com/HvLSstr.png"
