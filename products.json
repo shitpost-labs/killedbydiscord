@@ -8,30 +8,35 @@
   },
   {
     "name": "Feedback Community",
+    "description": "Discord Feedback was a server for members to share ideas and discuss feedback, with a community moderator program to moderate feedback ideas",
     "created": "2017",
     "killed": "2020",
     "icon": "https://i.imgur.com/l6h4G8w.png"
   },
   {
     "name": "Game Library",
+    "description": "Game Library was a feature for managing both games installed on your PC and games purchased through Discord.",
     "created": "2018",
     "killed": "2023",
     "icon": "https://i.imgur.com/bZfNLob.png"
   },
   {
     "name": "Stage Discovery",
+    "description": "Stage Discovery allowed users to search and discover public stage channels, which lead to many 'Discord Talent Show' events popping up.",
     "created": "2021",
     "killed": "2021",
     "icon": "https://i.imgur.com/44M1aEx.png"
   },
   {
     "name": "Moderator Academy",
+    "description": "Discord Moderator Academy (also known as Certified Mods), was a program allowing moderators that passed Discord's moderation exam to contribute to their moderation guides, as well as unlock a badge for their profile.",
     "created": "2021",
     "killed": "2022",
     "icon": "https://i.imgur.com/gIUp1F8.png"
   },
   {
     "name": "Nitro Classic",
+    "description": "Nitro Classic was a cheaper version of Discord Nitro, allowing users to purchase a version of Nitro with less features for cheaper. This unlocked higher file upload limits, animated avatars, custom discriminators and global stickers/emojis.",
     "created": "2018",
     "killed": "2022",
     "icon": "https://i.imgur.com/K1UnQGK.png"
@@ -43,31 +48,36 @@
     "icon": "https://i.imgur.com/SuNj4Hh.png"
   },
   {
-    "name": "Verified Server",
+    "name": "Verified Servers",
+    "description": "Verified Servers were a way to show that a server was the official server representing a brand or influencer.",
     "created": "2017",
     "killed": "2023",
     "icon": "https://i.imgur.com/lsTcTcr.png"
   },
   {
     "name": "Games Lab",
+    "description": "Games Lab was a way to play around with Discord's built in VC activies with other members of the community.",
     "created": "2021",
     "killed": "2022",
     "icon": "https://i.imgur.com/zUWhUS0.png"
   },
   {
-    "name": "Safety (Server)",
+    "name": "Safety",
+    "description": "Discord Safety was a server setup in 2021 by Discord T&S, it was being 'reimagined' in 2022 but is yet to receive any updates (as of 2024).",
     "created": "2021",
-    "killed": "2021",
+    "killed": "2022",
     "icon": "https://i.imgur.com/fXQOCrY.png"
   },
   {
     "name": "Discriminators",
+    "description": "Discriminators were a way to identify a user besides their username (Username#0001 vs Username#0002). This was removed as part of a migration to 'Pomelo' usernames (https://dis.gd/usernames), which depreciated Discriminators.",
     "created": "2015",
     "killed": "2023",
     "icon": "https://i.imgur.com/1uFqnkO.png"
   },
   {
-    "name": "Membership Screening",
+    "name": "Welcome Screen",
+    "description": "Welcome Screen was an unreleased feature that was meant to allow server owners/admins to setup custom questions for their server which members would be prompted to answer upon joining the server. Unfortunately, this feature was never properly released and was instead replaced with Rules Screening.",
     "created": "2020",
     "killed": "2022",
     "icon": "https://i.imgur.com/fTnvKy1.png"
@@ -80,12 +90,14 @@
   },
   {
     "name": "Emoji Packs",
+    "description": "Emoji Packs was an experimental feature being beta tested by Discord, which allowed users to 'steal' emojis from servers for their own personal emoji packs, linked to their account.",
     "created": "2022",
     "killed": "2023",
     "icon": "https://i.imgur.com/FLuPfLp.png"
   },
   {
     "name": "Clyde (AI)",
+    "description": "Clyde AI was a feature released by Discord integrating OpenAI's API into the platform, allowing users to talk to their own chatbot.",
     "created": "2022",
     "killed": "2023",
     "icon": "https://i.imgur.com/H27CqoQ.png"
