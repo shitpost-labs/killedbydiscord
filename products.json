@@ -11,5 +11,83 @@
     "created": "2017",
     "killed": "2020",
     "icon": "https://i.imgur.com/l6h4G8w.png"
-  }
+  },
+  {
+    "name": "Game Library",
+    "created": "2018",
+    "killed": "2023",
+    "icon": "https://i.imgur.com/bZfNLob.png"
+  },
+  {
+    "name": "Stage Discovery",
+    "created": "2021",
+    "killed": "2021",
+    "icon": "https://i.imgur.com/44M1aEx.png"
+  },
+  {
+    "name": "Moderator Academy",
+    "created": "2021",
+    "killed": "2022",
+    "icon": "https://i.imgur.com/gIUp1F8.png"
+  },
+  {
+    "name": "Nitro Classic",
+    "created": "2018",
+    "killed": "2022",
+    "icon": "https://i.imgur.com/K1UnQGK.png"
+  },
+  {
+    "name": "Hypesquad Events",
+    "created": "2016",
+    "killed": "2022",
+    "icon": "https://i.imgur.com/SuNj4Hh.png"
+  },
+  {
+    "name": "Verified Server",
+    "created": "2017",
+    "killed": "2023",
+    "icon": "https://i.imgur.com/lsTcTcr.png"
+  },
+  {
+    "name": "Games Lab",
+    "created": "2021",
+    "killed": "2022",
+    "icon": "https://i.imgur.com/zUWhUS0.png"
+  },
+  {
+    "name": "Safety (Server)",
+    "created": "2021",
+    "killed": "2021",
+    "icon": "https://i.imgur.com/fXQOCrY.png"
+  },
+  {
+    "name": "Discriminators",
+    "created": "2015",
+    "killed": "2023",
+    "icon": "https://i.imgur.com/1uFqnkO.png"
+  },
+  {
+    "name": "Membership Screening",
+    "created": "2020",
+    "killed": "2022",
+    "icon": "https://i.imgur.com/fTnvKy1.png"
+  },
+  {
+    "name": "Home Tab",
+    "created": "2022",
+    "killed": "2023",
+    "icon": "https://i.imgur.com/HvLSstr.png"
+  },
+  {
+    "name": "Emoji Packs",
+    "created": "2022",
+    "killed": "2023",
+    "icon": "https://i.imgur.com/FLuPfLp.png"
+  },
+  {
+    "name": "Clyde (AI)",
+    "created": "2022",
+    "killed": "2023",
+    "icon": "https://i.imgur.com/H27CqoQ.png"
+  },
 ]
